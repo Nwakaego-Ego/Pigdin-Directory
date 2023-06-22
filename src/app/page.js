@@ -1,12 +1,13 @@
 import Navbar from "./navbar/page";
+import Hero from "./hero/page";
+import Footer from "./footer/page";
 
 export default function Home() {
   return (
     <main>
       <Navbar />
-      <div>
-        <h1 className="">Directory for all Nigerian language</h1>
-      </div>
+      <Hero />
+      <Footer />
     </main>
   );
 }

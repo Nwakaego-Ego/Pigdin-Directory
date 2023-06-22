@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: { skyBlue: "#015ce6", btnBg: "#FFFFFF" },
+      colors: { brown: "#333333", btnBg: "#FFFFFF" },
     },
   },
   plugins: [],
